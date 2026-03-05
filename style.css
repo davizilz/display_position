@@ -1,0 +1,22 @@
+body{
+ display: flex;
+ align-items: flex-start;
+}
+
+.blue{
+    padding: 100px;
+    background-color: blue;
+}
+.yo{
+    padding: 20px;
+    background-color: yellow;
+    margin: 10px;
+}
+.flex{
+    display: flex;
+}
+
+.red{
+    padding-right: 80px;
+    background-color: red;
+}
